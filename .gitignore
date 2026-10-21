@@ -1,0 +1,17 @@
+# PyCharm / IntelliJ IDEA
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Виртуальное окружение (если есть)
+venv/
+env/
+ENV/
+
+# Переменные окружения с секретами
+.env
